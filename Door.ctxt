@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Door()
+comment1.params=s
+comment1.target=Door(java.lang.String)
+comment2.params=s
+comment2.target=void\ setState(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getState()
+comment4.params=
+comment4.target=void\ visit()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
